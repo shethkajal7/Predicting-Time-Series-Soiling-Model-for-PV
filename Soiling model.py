@@ -1,3 +1,6 @@
+simulate_PV_time_series: Model for generating PV soiling time series described in Deceglie et. al. 
+    "Numerical Validation of an Algorithm for Combined Soiling and Degradation Analysis of Photovoltaic
+    Systems", Proceedings of the 2019 IEEE PVSC. 
 
 import pandas as pd
 import numpy as np
